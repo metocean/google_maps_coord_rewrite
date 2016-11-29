@@ -2,7 +2,7 @@
 fixes negative X coord nums "/2/-1/3.png" from google maps via nginx and openresty.
 
 # usage
-openning the follow two links an both should return the same tile.
+openning the follow two links an both should return the same tile.  
 http://127.0.0.1/tiletest/2/-1/1.png  
 http://127.0.0.1/tiletest/2/3/1.png  
 
